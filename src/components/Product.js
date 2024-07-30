@@ -14,7 +14,7 @@ const Product = () => {
               component="img"
               alt="Product Image"
               height="400"
-              image="https://m.media-amazon.com/images/I/61X9WQBdypL.jpg"
+              image="../../sellingItem.jpg"
               title="Product Image"
             />
           </Card>

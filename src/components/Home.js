@@ -51,7 +51,7 @@ const Home = () => {
             Shop with Confidence
           </Typography>
           <div className="security-badges">
-            <img src="https://cdn.prod.website-files.com/659415b46df8ea43c3877776/65b3c30d3fc4fd3f9952afc4_ecommerce-trust-badges-examples-popupsmart.jpeg" alt="Security Badge 1" />
+            <img src="../../security-badge.jpeg" alt="Security Badge 1" />
             
           </div> 
         </Grid>
