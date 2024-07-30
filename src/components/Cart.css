@@ -1,0 +1,40 @@
+.cart-container {
+    padding: 20px;
+  }
+  
+  .cart-grid {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .cart-header {
+    margin-bottom: 20px;
+  }
+  
+  .cart-title {
+    animation: slideInLeft 2s;
+  }
+  
+  .cart-subtitle {
+    animation: slideInLeft 2s 1s;
+  }
+  
+  .cart-total {
+    margin-bottom: 20px;
+    animation: slideInLeft 2s 2s;
+  }
+  
+  .checkout-button {
+    animation: slideInLeft 2s 3s;
+  }
+  
+  @keyframes slideInLeft {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+  
