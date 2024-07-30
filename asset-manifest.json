@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SellingApp/static/css/main.69de53f7.css",
+    "main.js": "/SellingApp/static/js/main.eff20959.js",
+    "static/js/453.5dee08d5.chunk.js": "/SellingApp/static/js/453.5dee08d5.chunk.js",
+    "index.html": "/SellingApp/index.html",
+    "main.69de53f7.css.map": "/SellingApp/static/css/main.69de53f7.css.map",
+    "main.eff20959.js.map": "/SellingApp/static/js/main.eff20959.js.map",
+    "453.5dee08d5.chunk.js.map": "/SellingApp/static/js/453.5dee08d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.69de53f7.css",
+    "static/js/main.eff20959.js"
+  ]
+}
